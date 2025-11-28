@@ -1,4 +1,4 @@
-**Automated Goods Received Note (GRN) System**
+# Automated Goods Received Note (GRN) System
 
 ## Overview
 
